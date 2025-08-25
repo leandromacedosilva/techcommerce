@@ -25,10 +25,14 @@ Projeto de Front-End para um e-commerce moderno, desenvolvido como prática de H
 ## 🗂 Estrutura do Projeto
 
 ├── index.html
-├── style.css
+├── reset.css
+├── styles.css
 ├── products.js
 ├── scripts.js
-└── assets/
+└── src/
+    └── css/
+    └── images/
+    └── js/
 
 ## 🚧 O que falta para funcionar completamente
 
