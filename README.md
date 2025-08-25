@@ -1,6 +1,6 @@
 # ⚡ TechCommerce
 
-Projeto de Front-End para um e-commerce moderno, desenvolvido como prática de HTML, CSS e JavaScript. Totalmente resposivo, onde a proposta é criar a interface de uma loja online funcional visualmente, com foco em organização, responsividade e código limpo.
+Projeto de Front-End para um e-commerce moderno, desenvolvido como prática de HTML, CSS e JavaScript. Totalmente resposivo, onde a proposta foi criar a interface de uma loja online e funcional visualmente, com foco em organização, responsividade e código limpo.
 
 ## 🧰 Tecnologias Utilizadas
 
