@@ -29,10 +29,7 @@ Projeto de Front-End para um e-commerce moderno, desenvolvido como prática de H
 ├── styles.css
 ├── products.js
 ├── scripts.js
-└── src/
-└── css/
-└── images/
-└── js/
+└── assets/
 
 ## 🚧 O que falta para funcionar completamente
 
