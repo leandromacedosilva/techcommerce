@@ -57,7 +57,7 @@ Este projeto foi criado com foco no desenvolvimento Front-End e organização do
 
 ## 📸 Preview do Projeto
 
-![Preview do LCommerce](./src/images/techcommerce-imagem-projeto.png)
+![Preview do LCommerce](./assets/techcommerce-imagem-projeto.png)
 
 ---
 
