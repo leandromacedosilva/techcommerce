@@ -77,3 +77,5 @@ window.addEventListener('DOMContentLoaded', () => {
         });
     })
 })
+
+/* AMBURGER MENU IN JS */
