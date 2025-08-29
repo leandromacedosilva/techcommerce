@@ -237,10 +237,15 @@ footer {
 }
 
 @media screen and (max-width: 650px) {
-  header {
+    header {
     display: flex;
     flex-direction: column;
-  }
+}
+
+}
+
+footer strong {
+    text-transform: uppercase;
 }
 
 /* AMBURGER MENU IN CSS */
